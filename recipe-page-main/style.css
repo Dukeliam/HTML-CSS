@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: Young Serif, sans-serif;
+    font-weight: 400;
+}
+
+body {
+    background-color: #f3e6d8;
+    
+}
+
+.outer-container {
+    background-color: #fff;
+    height: 1650px;
+    width: 35%;
+    padding: 20px 30px;
+    margin: 70px auto;
+    border-radius: 10px;
+    gap: 50px;
+}
+
+.outer-container img {
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.outer-container p {
+    font-family: Outfit, sans-serif;
+    font-weight: 400;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.inner-container {
+    margin-top: 20px;
+    background-color: #f3c8dc;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.inner-container h3 {
+    color: #7b284f;
+    font-family: Outfit, sans-serif;
+    font-weight: 400;
+    position: relative;
+    left: 30px;
+    top: 20px;
+    font: bold;
+    margin-bottom: 20px;
+    
+}
+
+.list1 {
+    font-family: Outfit, sans-serif;
+    font-weight: 400;
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+.time h2 {
+    margin-top: 20px;
+    font-family: Young Serif, sans-serif;
+    font-weight: 400;
+    color: #5f574e;
+}
+
+.list2 {
+    margin-top: 20px;
+    font-family: Outfit, sans-serif;
+    line-height: 2;
+    margin-left: 30px;
+    margin-bottom: 20px
+}
+
+.hero h2 {
+    margin-top: 20px;
+    font-family: Young Serif, sans-serif;
+    font-weight: 400;
+    color: #5f574e;
+}
+
+.list3 {
+    margin-top: 20px;
+    font-family: Outfit, sans-serif;
+    line-height: 2;
+    margin-left: 30px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.villain h2{
+    margin-top: 20px;
+    font-family: Young Serif, sans-serif;
+    font-weight: 400;
+    color: #5f574e;
+}
+
+
+.villain {
+    margin-top: 30px;
+}
+
+.villain p {
+    font-family: Outfit, sans-serif;
+    font-size: 14px;
+    color: #5f574e;
+    line-height: 1.5;
+}
+
+.villain-row {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.villain-row td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #e5e5e5;
+    font-family: Outfit, sans-serif;
+    font-size: 14px;
+}
+
+.villain-row td {
+    width: 50%;
+    color: #5f574e;
+}
+
+.villain-row td {
+    color: #854632;
+    font-weight: 700;
+}
+
+
+
+
